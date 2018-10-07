@@ -1,4 +1,4 @@
-# v2ray-openshift
+# v2ray-openshift ddy
 A v2ray docker image for openshift v3.
 - work with websocket
 - proxy_pass by nginx
